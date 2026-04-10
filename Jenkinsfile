@@ -2,7 +2,7 @@ pipeline {
     agent any
  
     environment {
-	DOCKER_IMAGE = 'Hello-world-pyhton:latest'
+	DOCKER_IMAGE = 'hello-world-pyhton:latest'
 	}
 
 stages	{
