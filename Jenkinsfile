@@ -3,7 +3,6 @@ pipeline {
  
     environment {
 	DOCKER_IMAGE = 'Hello-world-pyhton:latest'
-	image name
 	}
 
 stages	{
